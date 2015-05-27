@@ -1,1 +1,10 @@
 **
+1. Problem with static plan: Change team, change requirements...
+
+2. The agile Plan
+  - Master story list
+  - Team velocity
+
+Agile Principle : 
+Welcome changing requirements, even late in development, agile processes hearnes change
+for the customers competitive advantage.
