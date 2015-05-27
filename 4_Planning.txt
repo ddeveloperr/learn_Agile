@@ -3,8 +3,18 @@
 
 2. The agile Plan
   - Master story list
-  - Team velocity
+  - Team velocity = stories completed / iteration
 
-Agile Principle : 
+Agile Principle 1 : 
 Welcome changing requirements, even late in development, agile processes hearnes change
 for the customers competitive advantage.
+
+Agile Principle 2 : Simplicity - The art of maximizing the amount of work done is essential!
+
+3. First Agile Plan
+  Step 1: Crate Master Story list
+  Step 2: Size thing up
+  Step 3: Prioritize
+  Step 4: Estimate team velocity
+  Step 5: Pick some date
+  
