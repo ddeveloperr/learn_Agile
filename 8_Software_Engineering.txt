@@ -2,4 +2,5 @@
 * Unit Testing
 * Refactoring
 * Test Driven Development
+* Continuous integration
 
